@@ -1,4 +1,4 @@
-<b>Basic Scanning Techniques</b>
+Basic Scanning Techniques
 Scan a single target —> nmap [target]
 Scan multiple targets —> nmap [target1,target2,etc]
 Scan a list of targets —-> nmap -iL [list.txt]
