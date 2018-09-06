@@ -2,7 +2,7 @@ inurl:"~root.txt"
 intext:"Powered by IIS"
 Hmei7.asp;.txt
 
-inurl: Value is contained somewhere in the url.
+### inurl: Value is contained somewhere in the url.
 Ex: “preventing ransomware inurl:fbi”
 
 site: Only search within this website’s given domain
