@@ -1,9 +1,14 @@
 ### Basic Scanning Techniques
 Scan a single target —> nmap [target]
+
 Scan multiple targets —> nmap [target1,target2,etc]
+
 Scan a list of targets —-> nmap -iL [list.txt]
+
 Scan a range of hosts —-> nmap [range of IP addresses]
+
 Scan an entire subnet —-> nmap [IP address/cdir]
+
 Scan random hosts —-> nmap -iR [number]
 Excluding targets from a scan —> nmap [targets] –exclude [targets]
 Excluding targets using a list —> nmap [targets] –excludefile [list.txt]
